@@ -1,0 +1,9 @@
+customer_id;purchase_date;product_category;amount_spent
+C001;01/03/23;Electronics;250
+C002;02/03/23;Books;45.5
+C003;03/03/23;Home & Garden;150.75
+C001;04/03/23;Books;20
+C002;05/03/23;Electronics;525
+C004;;Electronics;399.99
+C003;;Books;10.5
+C005;07/03/23;Beauty;75
